@@ -12,6 +12,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Contacts](#Contacts)
 
 ## Portfolio Projects
+In this section, I will provide a concise overview of data analytics projects, including descriptions of the technology stack employed to address specific cases.
+### Netflix Movies and TV Shows Analysis
+#### Description:
+Code: 
+Netflix stands as a leading media and video streaming platform, boasting a vast catalog comprising more than 8,000 movies and TV shows. As of mid-2021, their global subscriber count exceeds a remarkable 200 million. This tabular dataset comprehensively catalogues all the available Netflix movies and TV shows, encompassing vital details like cast, directors, ratings, release year, duration, and more. Netflix is a swiftly growing platform that consistently attracts a substantial and ever-expanding user base, driven by its extensive content library. This presentation delves into exploratory data analysis (EDA) and storytelling through data, offering valuable insights into the platform's evolution and content diversity. Additionally, it integrates diverse graphs and visuals to illustrate patterns and trends, fostering a holistic grasp of Netflix's journey and widespread appeal.
+Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
 
 ## Study Projects
 Within this section, I'll share links to my GitHub repositories where you can find code and Jupyter notebooks I've developed while either taking online courses or simply indulging in data and code exploration.
