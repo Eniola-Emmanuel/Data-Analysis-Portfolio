@@ -13,6 +13,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Portfolio Projects
 In this section, I will provide a concise overview of data analytics projects, including descriptions of the technology stack employed to address specific cases.
+PortFolio Projects
 ### Netflix Movies and TV Shows Analysis
 #### Description:
 Code: 
