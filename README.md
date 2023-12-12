@@ -37,6 +37,7 @@ In my perspective, the most effective method of demonstrating one's skills is th
 - [Cousera Full Data Analytics Training Course](https://drive.google.com/file/d/11dLzWSC2pH6It2gZNJhogdgDMZY9OPMW/view?usp=sharing) (May 31, 2023)
 - [Basics and Advanced Power Bi Course on Uniathena](https://drive.google.com/file/d/1cx7Mzr4cswfRXy6aKNYtuyPL3Sdtli75/view?usp=sharing)(Setember 7, 2023)
 - [Microsoft Power Bi Course on Great Learning](https://drive.google.com/file/d/1cSGa-eUYra3egpjqmZF371LYHnlIYALe/view?usp=sharing) (September 9, 2023)
+- [Python for Data Science and Machine Learning Bootcamp](https://drive.google.com/file/d/1Rb11DDn6Lp-jqDwXla4W6TmjTlG7t27E/view?usp=sharing) (November 7, 2023)
 
 
 ## Contacts
